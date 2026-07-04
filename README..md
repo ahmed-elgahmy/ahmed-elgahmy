@@ -178,13 +178,6 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 
 <br>
 
-## 🚀 Featured Project
-
-**🏢 Enterprise Insurance Management Platform** *(in progress — growing feature by feature)*
-
-A full enterprise-grade Microsoft Business Application built end-to-end: Dataverse data model & security → Model-Driven CRM → C# Plugin engines (Approval / Notification / Audit) → Copilot Studio AI agents → PCF controls → Azure integrations → full ALM with CI/CD.
-
-<br>
 
 ## 📊 GitHub Stats
 
