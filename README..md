@@ -182,11 +182,6 @@ I build enterprise business applications on Microsoft Power Platform & Dynamics 
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ahmed-elgahmy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-	&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elgahmy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-<p align="center">
 	<img src="https://streak-stats.demolab.com?user=ahmed-elgahmy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
